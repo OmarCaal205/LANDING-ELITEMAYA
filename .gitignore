@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dev/index.html
+dev/main.js
+dev/main.css
+dev/*.map
+.DS_Store

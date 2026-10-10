@@ -1,0 +1,10 @@
+Pon aquí las fotos del gimnasio con estos nombres exactos:
+
+  portada.jpg     foto grande de la portada (la primera que se ve)
+  pesas.jpg       sala de pesas
+  cardio.jpg      zona de cardio
+  funcional.jpg   entrenamiento funcional
+  clases.jpg      clases grupales
+
+Recomendado: unos 1920 px de ancho y menos de 300 KB cada una.
+Si falta alguna, la página muestra una ilustración en su lugar.
